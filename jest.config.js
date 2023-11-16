@@ -1,8 +1,8 @@
 module.exports = {
   collectCoverageFrom: [
-    "**/*.{js}",
-    "!**/node_modules/**",
-    "!**/vendor/**",
-    "!**/coverage/**",
+    '**/*.{js}',
+    '!**/node_modules/**',
+    '!**/vendor/**',
+    '!**/coverage/**',
   ],
-};
+}
